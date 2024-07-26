@@ -1,5 +1,5 @@
 diff --git a/src/server/game/Chat/HyperlinkTags.cpp b/src/server/game/Chat/HyperlinkTags.cpp
-index 49efa0b2f..64f6f521f 100644
+index 49efa0b2f..64f6f521f 100755
 --- a/src/server/game/Chat/HyperlinkTags.cpp
 +++ b/src/server/game/Chat/HyperlinkTags.cpp
 @@ -148,8 +148,8 @@ bool Acore::Hyperlinks::LinkTags::item::StoreTo(ItemLinkData& val, std::string_v
@@ -36,7 +36,7 @@ index 49efa0b2f..64f6f521f 100644
      return true;
  }
 diff --git a/src/server/game/Entities/Item/ItemEnchantmentMgr.cpp b/src/server/game/Entities/Item/ItemEnchantmentMgr.cpp
-index 6696e66b9..34ab87651 100644
+index 6696e66b9..34ab87651 100755
 --- a/src/server/game/Entities/Item/ItemEnchantmentMgr.cpp
 +++ b/src/server/game/Entities/Item/ItemEnchantmentMgr.cpp
 @@ -125,8 +125,9 @@ uint32 GenerateEnchSuffixFactor(uint32 item_id)
